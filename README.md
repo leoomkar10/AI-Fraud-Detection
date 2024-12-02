@@ -26,40 +26,6 @@ This AI-powered Fraud Detection System leverages advanced machine learning techn
   - Flask/FastAPI
   - Docker
 
-## 🔍 Project Structure
-
-```
-ai-fraud-detection/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│   ├── data_exploration.ipynb
-│   └── model_development.ipynb
-│
-├── src/
-│   ├── data_preprocessing/
-│   ├── feature_engineering/
-│   ├── model/
-│   │   ├── training.py
-│   │   └── inference.py
-│   └── utils/
-│
-├── models/
-│   ├── fraud_detection_model.pkl
-│   └── model_metadata.json
-│
-├── tests/
-│   ├── test_preprocessing.py
-│   └── test_model.py
-│
-├── requirements.txt
-├── README.md
-└── setup.py
-```
-
 ## 🚀 Installation
 
 ### Prerequisites
