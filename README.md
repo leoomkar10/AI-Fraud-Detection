@@ -2,7 +2,7 @@
 
 ## 🚨 Project Overview
 
-This AI-powered Fraud Detection System leverages advanced machine learning techniques to identify and prevent fraudulent activities across various domains, including financial transactions, insurance claims, and e-commerce platforms.
+This AI-powered Fraud Detection System leverages advanced machine learning techniques to identify and prevent fraudulent activities across various domains, including financial transactions and e-commerce platforms.
 
 ## ✨ Features
 
@@ -17,15 +17,13 @@ This AI-powered Fraud Detection System leverages advanced machine learning techn
 - **Programming Languages**: Python
 - **Machine Learning Frameworks**: 
   - scikit-learn
-  - TensorFlow
   - PyTorch
 - **Data Processing**: 
   - Pandas
   - NumPy
 - **Model Deployment**: 
-  - Flask/FastAPI
-  - Docker
-
+  - Flask
+  
 ## 🚀 Installation
 
 ### Prerequisites
